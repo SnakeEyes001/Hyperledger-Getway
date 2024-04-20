@@ -1,10 +1,11 @@
 # compiled output
 /dist
+/src/config/
+/src/organizations/
+/src/wallet/
 /node_modules
 .env
-/src/config
-/src/organizations
-/src/wallet
+
 
 
 # Logs
