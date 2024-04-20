@@ -2,9 +2,9 @@
 /dist
 /node_modules
 .env
-src/config/
-src/organizations/
-src/wallet/
+/src/config
+/src/organizations
+/src/wallet
 
 
 # Logs
